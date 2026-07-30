@@ -180,4 +180,4 @@ To test a production build on your laptop:
 
 Licensed under the Apache 2.0 License.
 
-Create use AI - Gemini AI by Google
+AI
