@@ -37,7 +37,7 @@ Vektor Engine is a production-ready, high-throughput SaaS landing page and inter
 
 ---
 
-## 💻 How to Install and Run on Your Local Laptop
+## 💻 How to Install and Run on Your Local Computer
 
 Follow these step-by-step instructions to get the application running locally on your machine.
 
