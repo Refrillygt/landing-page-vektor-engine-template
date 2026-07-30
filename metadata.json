@@ -1,0 +1,6 @@
+{
+  "name": "Vektor Engine",
+  "description": "High-performance event streaming and workflow orchestration engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
