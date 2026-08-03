@@ -1,6 +1,6 @@
 # Vektor Engine — Production SaaS Platform
 
-Vektor Engine is a production-ready, high-throughput SaaS landing page and interactive event streaming telemetry dashboard. Designed for infrastructure engineers, it provides a low-latency event streaming engine experience complete with real-time cluster monitoring, JWT httpOnly cookie authentication, and Stripe subscription payment integrations.
+Vektor Engine is a production-ready, high-throughput SaaS landing page and interactive event streaming telemetry dashboard. Designed for infrastructure engineers, it provides a low-latency event streaming engine experience complete with real-time cluster monitoring, JWT httpOnly cookie authentication, and Stripe subscription payment integration.
 
 ---
 
